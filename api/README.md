@@ -1,4 +1,4 @@
-#  🚀 Employee Invite System – Backend
+#  🚀 Onboardly – Backend
 
 ### NestJS + MongoDB + JWT Authentication
 
